@@ -1,5 +1,5 @@
 # My first portfolio
-- 👋 Hi, I’m @MarkSharban
+- 👋 Hi, I’m Mark Sharban
 - 👀 I’m interested in ... Web-development
 - 📫 How to reach me ... My WhatsApp (+32476680305)
 ## This project was built using these technologies.

@@ -2,11 +2,10 @@
 - 👋 Hi, I’m @MarkSharban
 - 👀 I’m interested in ... Web-development
 - 📫 How to reach me ... My WhatsApp (+32476680305)
-### This project was built using these technologies.
-HTML5
-SASS(SCSS)
-CSS3
-VsCode
+## This project was built using these technologies.
+## HTML5
+## CSS3
+## VsCode
 
 
 
